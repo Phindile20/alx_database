@@ -1,3 +1,3 @@
--- Write a script that deletes the database 
+-- Delete an entire database 'hbtn_0c_0'
 
-DROP DATABASE [IF EXISTS] hbtn_0c_0
+DROP DATABASE IF EXISTS hbtn_0c_0;
